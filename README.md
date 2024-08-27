@@ -52,3 +52,15 @@ OPENAI_API_KEY=your_llama3_api_key_here
 ```bash
 python application.py
 ```
+
+### Usage
+
+- Place your Documents:  Place your documents in the input folder .
+- Ask Questions: Type your question in the chat interface.
+- Receive Answers: The chatbot will process your query and return the most relevant answer from the document.
+### Example :
+```bash
+**User:** What are the main benefits of using Llama3?
+**Chatbot:** Llama3 offers advanced natural language processing capabilities, enabling high accuracy in text comprehension and generation. It is also highly scalable for various NLP tasks.
+```
+
