@@ -4,6 +4,8 @@
 
 This project aims to create a powerful Document Q&A Chatbot utilizing the capabilities of Llama3, Langchain, and the Groq API. The chatbot is designed to efficiently parse and comprehend documents, providing precise answers to user queries.
 
+![Application  Demo](demo.png)
+
 ## Features
 
 - **Llama3 Integration:** Leveraging Llama3 for natural language processing and understanding.
@@ -13,7 +15,7 @@ This project aims to create a powerful Document Q&A Chatbot utilizing the capabi
 
 ## Architecture
 
-![Architecture Diagram](link-to-your-diagram)
+![Architecture Diagram](demo.png)
 
 1. **Document Ingestion:** Documents are uploaded and preprocessed for efficient querying.
 2. **Question Understanding:** The chatbot uses Llama3 to comprehend and break down the user query.
